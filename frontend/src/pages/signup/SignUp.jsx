@@ -114,6 +114,7 @@ const SignUp = () => {
               )}
             </button>
           </div>
+          <p>Chat End-to-End Encrypted. Powered by 3DES-192</p>
         </form>
       </div>
     </div>
